@@ -4698,6 +4698,7 @@ CONFIG_ZLIB_OPTIMIZE_SPEED=y
 #
 # 1. Collections
 #
+CONFIG_PACKAGE_luci-app-openclash=y
 CONFIG_PACKAGE_luci=y
 CONFIG_PACKAGE_luci-lib-docker=y
 # CONFIG_PACKAGE_luci-nginx is not set
